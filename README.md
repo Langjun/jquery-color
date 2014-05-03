@@ -1,7 +1,7 @@
 jquery-color
 ============
 
-# example
+### example
 
   $('#box1').color('red');           <!-- To set box1's color is 'red' -->
   $('#box1').color();           <!-- To get box1's color -->
